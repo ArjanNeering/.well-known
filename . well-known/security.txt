@@ -1,1 +1,6 @@
-# security txt
+# Thank you for visiting the security.txt. 
+# Please reach out with your findings with the contact details below
+
+Contact: mailto:arjan@neering.eu
+Expires: 2027-01-01T00:00:00.000Z
+Preferred-Languages: en, nl

@@ -1,6 +1,24 @@
 # Thank you for visiting the security.txt. 
 # Please reach out with your findings with the contact details below
 
-Contact: mailto:arjan@neering.eu
+Contact: mailto:admin@neering.eu
 Expires: 2027-01-01T00:00:00.000Z
 Preferred-Languages: en, nl
+
+#-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEaXs4aBYJKwYBBAHaRw8BAQdAx/cPXa/pRjyM1fva7mvx3aJe+9WYqH2S
+ww/Z6lcCg4LNI2FkbWluQG5lZXJpbmcuZXUgPGFkbWluQG5lZXJpbmcuZXU+
+wsARBBMWCgCDBYJpezhoAwsJBwkQRA392xAwS0NFFAAAAAAAHAAgc2FsdEBu
+b3RhdGlvbnMub3BlbnBncGpzLm9yZ3Ljc4W962vcfSCtvs6gX2rf4MNeD7LT
+xrMkCYT1XM3AAxUKCAQWAAIBAhkBApsDAh4BFiEE0caqyFMWlpaUczb6RA39
+2xAwS0MAAHF7AP9roAjLoV+vvDZwcc/6cZKab/Wk2tcKO13iClu1NTwjkgEA
+hzytCy6Uy3zvaWfOTsREmJXgq+NMm+oULIWSMjpMSA/OOARpezhoEgorBgEE
+AZdVAQUBAQdAVbbk70wh1GTUa6Zm8gSgf+3mQvdBHrU4opUWDgV2tUIDAQgH
+wr4EGBYKAHAFgml7OGgJEEQN/dsQMEtDRRQAAAAAABwAIHNhbHRAbm90YXRp
+b25zLm9wZW5wZ3Bqcy5vcmcOqJwEdRlMU1FpE/trbJwTytEby1nOhqfFER/K
+ealoNgKbDBYhBNHGqshTFpaWlHM2+kQN/dsQMEtDAAAcrQEAz9vlpsDxHjPy
+4UIszxQlX3vnFwAm43cKoGEjhglCRqMBAKJttn204iQUgCsQgjrbNN4zM1vb
+q9ugEf9pAbM5+2UK
+=P9yi
+#-----END PGP PUBLIC KEY BLOCK-----
